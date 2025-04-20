@@ -1,4 +1,4 @@
-# 🧠 AI Vision Projects: YouTube Gesture Controller & Eye Attention Tracker
+# AI Vision Projects: YouTube Gesture Controller & Eye Attention Tracker
 
 Welcome to my repository featuring two real-time AI projects built with **Python** and **MediaPipe** for intelligent webcam-based interaction.
 
